@@ -1,6 +1,6 @@
 # Sponsorship Agreement
 
-## PAPIs Europe 2018 — London, April 5-6, 2018
+## PAPIs Europe 2019 — London, April 2-3, 2019
 
 Sponsorship agreement between Sponsor and
 
