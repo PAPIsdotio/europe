@@ -14,17 +14,17 @@ Sponsorship agreement between Sponsor and
 
 ## Article 1. Purpose of Agreement
 
-The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs London 2018 conference held on April 5-6, 2018 at Level39 in London, United Kingdom (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
+The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs London 2018 conference held on April 2-3, 2019 at Level39 in London, United Kingdom (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
 
 ## Article 2. Obligations
 
 **Timeline:**
 
 1. Sponsor shall fill in the form at [https://papisdotio.wufoo.eu/forms/m1onnqex1rt6c3l/](https://papisdotio.wufoo.eu/forms/m1onnqex1rt6c3l/) (“Form”)
-1. Organizer shall send invoice after receipt of the Form and payment.
-1. Organizer shall start providing benefits, according to best practices and in the best way possible.
-1. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
-1. Conference will take place from April 5, 2018 at 9am to April 6, 2018 at 3.30pm BT – British Time, at which point this Agreement will be deemed to be fully completed.
+2. Organizer shall send invoice after receipt of the Form and payment.
+3. Organizer shall start providing benefits, according to best practices and in the best way possible.
+4. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
+5. Conference will take place from April 2, 2019 at 9am to April 6, 2018 at 3.30pm BT – British Time, at which point this Agreement will be deemed to be fully completed.
 
 **The Sponsor must:**
 
