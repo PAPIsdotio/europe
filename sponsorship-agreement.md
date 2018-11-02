@@ -20,7 +20,7 @@ The purpose of this Agreement is to set the technical, commercial, operational a
 
 **Timeline:**
 
-1. Sponsor shall fill in the form at [https://papisdotio.wufoo.eu/forms/m1onnqex1rt6c3l/](https://papisdotio.wufoo.eu/forms/m1onnqex1rt6c3l/) (“Form”)
+1. Sponsor shall fill in the form at [https://papisdotio.wufoo.com/forms/qqmgvt207ibl9o/](https://papisdotio.wufoo.com/forms/qqmgvt207ibl9o/) (“Form”)
 2. Organizer shall send invoice after receipt of the Form and payment.
 3. Organizer shall start providing benefits, according to best practices and in the best way possible.
 4. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
@@ -45,7 +45,7 @@ An invoice will be sent in Euros and it will specify the corresponding amount in
 
 Payment options:
 
-- A discount of £500 will be given for payments made by credit card on the Form.
+- A discount of £250 will be given for payments made by credit card on the Form.
 - Payment can also be sent by eletronic bank transfer, which should include the invoice number in reference.
   - Bank details are:
     - IBAN: FR76 1333 5003 0108 0015 6404 918
@@ -89,12 +89,13 @@ In the event any dispute arises in connection with this Agreement between both p
 
 Please note that Sponsorship opportunities are in limited number and therefore are subject to availability.
 
-<iframe src="https://papisdotio.github.io/papis-london-2018/sponsorship-tiers.html" style="border:none;" width="100%">
+<iframe src="https://github.com/PAPIsdotio/europe/blob/master/sponsorship-tiers.html" style="border:none;" width="100%">
 </iframe>
 
 - **Speaking slot**:
   - Keynote: 20' presentation in opening or closing session
-  - Showcase: 10' presentation
+  - Parallel track: 20' presentation in parallel track
+  - Lightning Talk: 5' talk
 - **Visibility:**
   - Regular:
     - Mentions in announcements
