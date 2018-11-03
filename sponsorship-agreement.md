@@ -14,7 +14,7 @@ Sponsorship agreement between Sponsor and
 
 ## Article 1. Purpose of Agreement
 
-The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs London 2018 conference held on April 2-3, 2019 in London, United Kingdom (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
+The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs London 2019 conference held on April 2-3, 2019 in London, United Kingdom (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
 
 ## Article 2. Obligations
 
