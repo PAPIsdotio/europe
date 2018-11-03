@@ -89,7 +89,7 @@ In the event any dispute arises in connection with this Agreement between both p
 
 Please note that Sponsorship opportunities are in limited number and therefore are subject to availability.
 
-<iframe src="https://github.com/PAPIsdotio/europe/blob/master/sponsorship-tiers.html" style="border:none;" width="100%">
+<iframe src="https://papisdotio.github.io/europe/sponsorship-tiers.html" style="border:none;" width="100%">
 </iframe>
 
 - **Speaking slot**:
