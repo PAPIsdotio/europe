@@ -24,7 +24,7 @@ The purpose of this Agreement is to set the technical, commercial, operational a
 2. Organizer shall send invoice after receipt of the Form and payment.
 3. Organizer shall start providing benefits, according to best practices and in the best way possible.
 4. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
-5. Conference will take place from April 2, 2019 at 9am to April 6, 2018 at 3.30pm BT – British Time, at which point this Agreement will be deemed to be fully completed.
+5. Conference will take place from April 2, 2019 at 9am to April 6, 2019 at 3.30pm BT – British Time, at which point this Agreement will be deemed to be fully completed.
 
 **The Sponsor must:**
 
