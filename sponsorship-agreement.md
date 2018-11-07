@@ -45,8 +45,8 @@ An invoice will be sent in Euros and it will specify the corresponding amount in
 
 Payment options:
 
-- A discount of £250 will be given for payments made by credit card on the Form.
-- Payment can also be sent by eletronic bank transfer, which should include the invoice number in reference.
+- A fee of 250 GBP will be added for payments NOT made by credit card on the Form.
+- Payment can also be sent by eletronic bank transfer (250 GBP more expensive comparing to the paymant done by credit card), which should include the invoice number in reference.
   - Bank details are:
     - IBAN: FR76 1333 5003 0108 0015 6404 918
     - BIC: CEPAFRPP333
