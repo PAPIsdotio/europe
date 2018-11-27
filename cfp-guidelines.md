@@ -4,10 +4,12 @@ PAPIs is the 1st series of international conferences dedicated to **real-world M
 
 ## Key dates
 
+** The conference has been resculed. Dates to be announced! **
+
+<!--
 - **January 16** (23:59 GMT): Call for Proposals closes
 - **January 30**: Notifications of acceptance/rejection due
 - **last week of March or first week of April**: Conference takes place in London
-<!--
 - **June 4**: Paper submissions due
 - **June 25**: First round of feedback due
 - **July 9**: Submissions due incorporating first round of feedback
